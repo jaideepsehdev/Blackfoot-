@@ -1,7 +1,4 @@
-#Final project
-#jaideep singh & Kunal Khurana
-#301448987 & 301355396
-#April 14th, 2021
+
 #Created an application which helps you learn the translation between 
 #english words and the blackfoot words. This application will make you
 #learn, test, move to 5 different scenes and some more interesting features

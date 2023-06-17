@@ -1,6 +1,5 @@
 # Helper functions for Blackfoot project
-# CMPT 120 
-# Nov. 12, 2020
+
 import functions
 import wave
 from replit import audio

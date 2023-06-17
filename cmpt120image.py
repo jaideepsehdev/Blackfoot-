@@ -6,7 +6,7 @@ import numpy
 
 def getImage(filename):
   """
-  Input: filename - string containing image filename to open
+  Input: filename - string containing image filename to open 
   Returns: 2d array of RGB values
   """
   image = pygame.image.load(filename)
